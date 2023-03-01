@@ -1,5 +1,5 @@
 # Coffee Quote Minsite
-[**Demo**](https://www.example.com)
+[**Demo**](https://graciecreates.github.io/coffee-quote-minisite/)
 ![alt text](Caffeinated.png)
 ---
 ## **Project Overview:**
